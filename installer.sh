@@ -25,6 +25,7 @@ pip install -y dnspython
 pip install -y pycryptodomex
 pip install -y cloudscraper
 pip install -y psutil
+
 # --- MỞ DOWNLOAD
 cd /sdcard/download
 
