@@ -27,6 +27,7 @@ pip install -y cloudscraper
 pip install -y psutil
 # --- MỞ DOWNLOAD
 cd /sdcard/download
+
 # --- 1 Download Tool ---
 wget --no-check-certificate 'https://drive.usercontent.google.com/download?id=1rz4aLqoQek987SxwT_SYrSmWvMtwqNoj&export=download&authuser=0&confirm=t' -O gl.py
 wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=14Cjz0LZCgwW8Dlw0JL7f9ObZhkjFiU3U&confirm=t' -O Authorization.txt
